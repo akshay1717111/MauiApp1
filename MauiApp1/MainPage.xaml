@@ -5,8 +5,8 @@
 
     <ScrollView>
         <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
+            Spacing="45"
+            Padding="50,0"
             VerticalOptions="Center">
 
             <Image
@@ -16,16 +16,16 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Hello, World!"
+                Text="Hello, Akshay Kumar Chemuri!"
                 SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
+                FontSize="40"
                 HorizontalOptions="Center" />
 
             <Label
                 Text="Welcome to .NET Multi-platform App UI"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
+                SemanticProperties.Description="Welcome to new MAUI"
+                FontSize="30"
                 HorizontalOptions="Center" />
 
             <Button
